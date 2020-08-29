@@ -14,10 +14,13 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Commonsense-Reasoning-Papers/blob/master/vcr(6).pdf" style="text-decoration:none;">Heterogeneous Graph Learning for Visual Commonsense Reasoning</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Commonsense-Reasoning-Papers/blob/master/vcr(7).pdf" style="text-decoration:none;">TAB-VCR: Tags and Attributes based Visual Commonsense Reasoning Baselines</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Commonsense-Reasoning-Papers/blob/master/vcr(8).pdf" style="text-decoration:none;"> ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Commonsense-Reasoning-Papers/blob/master/vcr(9).pdf" style="text-decoration:none;">Heterogeneous Graph Learning for Visual Commonsense Reasoning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Commonsense-Reasoning-Papers/blob/master/vcr(8).pdf" style="text-decoration:none;"> Visual Commonsense for Scene Understanding Using Perception, Semantic Parsing and Reasoning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Commonsense-Reasoning-Papers/blob/master/vcr(9).pdf" style="text-decoration:none;">A Simple Baseline for Visual Commonsense Reasoning</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Commonsense-Reasoning-Papers/blob/master/vcr(10).pdf" style="text-decoration:none;">Connective Cognition Network for Directional Visual Commonsense Reasoning</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Visual-Commonsense-Reasoning-Papers/blob/master/vcr(11).pdf" style="text-decoration:none;">TAB-VCR: Tags and Attributes based Visual Commonsense Reasoning Baselines</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Visual-Commonsense-Reasoning-Papers/blob/master/vcr(12).pdf" style="text-decoration:none;">Project on Visual Commonsense Reasoning</a></li>
+
 </ul>
